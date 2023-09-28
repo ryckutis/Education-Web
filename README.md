@@ -1,2 +1,2 @@
 "# Education-Web" 
-Previw : https://education-web-sigma.vercel.app/
+Preview : https://education-web-sigma.vercel.app/
