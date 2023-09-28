@@ -388,8 +388,9 @@ footer h4 {
 .about-us {
   width: 80%;
   margin: auto;
-  padding: 80px;
+  padding: 50px;
   padding-bottom: 50px;
+  box-sizing: border-box;
 }
 
 .about-col {
@@ -417,6 +418,13 @@ footer h4 {
 
 .grey:hover {
   color: whitesmoke;
+}
+
+@media (max-width: 768px) {
+  .about-us {
+    padding: 30px;
+    text-align: center;
+  }
 }
 
 /*--- blog page ---*/
